@@ -124,7 +124,7 @@ Suggested Udemy Courses:
 
 *Suggested YouTube Videos:
 - [Git Crash Course](https://youtu.be/SWYqp7iY_Tc)
-- [Setting Started With Open Source] (https://youtu.be/3HqN-YS8eso)
+- [Getting Started With Open Source](https://youtu.be/3HqN-YS8eso)
 - [NPM Crash Course](https://youtu.be/jHDhaSSKmB0)
 - [Yarn Crash Course](https://youtu.be/g9_6KmiBISk)
 - [Chrome DevTools Crash Course](https://youtu.be/x4q86IjJFag)
